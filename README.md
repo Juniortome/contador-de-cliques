@@ -19,7 +19,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Juniortome/contador-de-cliques
 Entre na pasta do projeto:
 
 Bash
